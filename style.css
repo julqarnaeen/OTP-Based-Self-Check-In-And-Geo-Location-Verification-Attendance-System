@@ -1,0 +1,83 @@
+body {
+	margin: 0;
+	padding: 20px;
+	background: #dcdcdc;
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	width: 500px;
+	margin: 0 auto;
+	background: #eeeeee;
+	padding: 25px;
+	border: 1px solid #cfcfcf;
+}
+
+.container.wide {
+	width: 700px;
+}
+
+h1, h2, h3 {
+	margin-top: 0;
+}
+
+label {
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	font-size: 18px;
+}
+
+input, select {
+	width: 100%;
+	box-sizing: border-box;
+	padding: 10px;
+	margin-bottom: 5px;
+	border: 1px solid #9f9f9f;
+	font-size: 18px;
+}
+
+button {
+	width: 100%;
+	border: none;
+	color: #ffffff;
+	font-size: 32px;
+	padding: 10px;
+	margin-top: 10px;
+	cursor: pointer;
+}
+
+.blue-btn {
+	background: #2f80db;
+}
+
+.green-btn {
+	background: #008f00;
+}
+
+.message {
+	background: #fffde0;
+	border: 1px solid #e2d999;
+	padding: 10px;
+}
+
+.note {
+	margin-top: 20px;
+	color: #555555;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 10px;
+}
+
+th, td {
+	border: 1px solid #a8a8a8;
+	padding: 8px;
+	text-align: left;
+}
+
+a {
+	color: #0a4ca8;
+}
