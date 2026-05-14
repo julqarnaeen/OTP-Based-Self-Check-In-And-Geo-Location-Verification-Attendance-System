@@ -28,4 +28,4 @@ This project is a PHP/MySQL web app for attendance tracking using OTP verificati
 
 ## Project Report
 
-<a href="https://raw.githubusercontent.com/julqarnaeen/OTP-Based-Self-Check-In-And-Geo-Location-Verification-Attendance-System/main/Project-Report.pdf" download>Project Report (Download)</a>
+<a href="https://raw.githubusercontent.com/julqarnaeen/OTP-Based-Self-Check-In-And-Geo-Location-Verification-Attendance-System/main/Project-Report.pdf" download>Click here</a>
